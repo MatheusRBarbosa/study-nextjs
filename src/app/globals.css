@@ -4,10 +4,16 @@
     'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
 }
 
+html {
+  height: 100%;
+}
+
 body {
+  height: 100%;
   background-color: #dbdbdb;
   padding-left: 20%;
   padding-right: 20%;
+  margin: 0;
 }
 
 .row {
